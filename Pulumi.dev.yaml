@@ -1,4 +1,4 @@
 config:
-  secrets-aws:kms_key_id: c1172120-703e-45b0-bcef-1867100a0abe
+  secrets-aws:kms_key_id: <<REPLACE>>
 environment:
   - aws
